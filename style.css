@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1px;
+    margin: 1 px;
+    border: 5px solid #4B0082;
+    background-color: #4B0082 ;
+    color:  #C71585;
+    
+}
+
+header{
+    background-color:#C71585;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: #C71585;
+    padding: 10px; 
+}
+footer p{
+    border: 3px solid #4B0082;
+    border-radius: 5px;
+    background-color: #4B0082 ;
+      color:  #C71585;
+}
